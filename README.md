@@ -7,18 +7,23 @@ EN:
 Maintainer: Subai is a Chinese high school student, due to the heavy academic workload, if you are interested in joining us, please fork the repository and submit a pull request
 Subai will moderate your content in your free time
 
+
+大陆用户如有修复意愿或问题请加入QQ群
+QQ一群668051190
+QQ二群716435691
+
 <details>
 <summary>Use the tutorial</summary>
 
 ##### First
 
 ```Paks
-You need to launch the file with the suffix PAK to the ClientContentPaks file
+You need to launch the file with the suffix PAK to the “Client\Content\Paks” file
 ```
 ##### Second
 
 ```Safe
-You need to put the "libraries.txt", "profapi.dll", and "subai_safe.dll" files in the ClientBinariesWin64 directory
+You need to put the "libraries.txt", "profapi.dll", and "subai_safe.dll" files in the “Client\Binaries\Win64” directory
 ```
 ##### Note
 
